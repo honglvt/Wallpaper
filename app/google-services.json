@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "658872923813",
+    "firebase_url": "https://nova-wallpaper.firebaseio.com",
+    "project_id": "nova-wallpaper",
+    "storage_bucket": "nova-wallpaper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658872923813:android:52d51afdc16927c744ff4c",
+        "android_client_info": {
+          "package_name": "com.xieaoze.novawallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658872923813-675f4nho6ubrh5fdq3cvabdlka3blvgc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwTrLS4JRj2a_DmwmIRvslRKeXFe5ak_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658872923813-675f4nho6ubrh5fdq3cvabdlka3blvgc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

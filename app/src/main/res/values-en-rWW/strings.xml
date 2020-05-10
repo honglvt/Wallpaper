@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Nova Wallpaper</string>
+    <string name="loading">Loading</string>
+
+    <string name="download">SAVE</string>
+    <string name="rate">RATE</string>
+    <string name="set_default_wallpaper">SET</string>
+
+    <string name="set_success">Set success</string>
+    <string name="set_fail">Set fail</string>
+    <string name="save_success">Save success</string>
+    <string name="save_fail">Save fail</string>
+    <string name="parse_error">Parse error</string>
+    <string name="bad_network">Bad network</string>
+    <string name="connect_error">Connect error</string>
+    <string name="connect_timeout">Connect timeout</string>
+    <string name="other_error">Other error</string>
+    <string name="miss_browser">Please install at least one browser!</string>
+    <string name="no_data">No data</string>
+    <string name="reload">Try again</string>
+
+    <string name="icon_user">&#xf007;</string>
+    <string name="icon_add">&#xf067;</string>
+    <string name="icon_readmore">&#xf178;</string>
+    <string name="icon_answer">&#xf095;</string>
+    <string name="icon_mute">&#xf131;</string>
+
+    <string name="icon_like">&#xf087;</string>
+    <string name="icon_star">&#xf005;</string>
+    <string name="icon_share">&#xf064;</string>
+    <string name="icon_follow">&#xf005;</string>
+
+    <string name="icon_android">&#xf17b;</string>
+    <string name="icon_dropbox">&#xf16b;</string>
+    <string name="icon_soundcloud">&#xf1be;</string>
+    <string name="icon_spotify">&#xf1bc;</string>
+
+    <string name="icon_vine">&#xf1ca;</string>
+    <string name="icon_twitter">&#xf099;</string>
+    <string name="icon_tumbler">&#xf173;</string>
+    <string name="icon_stackoverflow">&#xf16c;</string>
+    <string name="icon_gplus">&#xf0d5;</string>
+    <string name="icon_facebook">&#xf09a;</string>
+
+    <string name="icon_entypo_facebook">&#59140;</string>
+
+    <string name="icon_behance">&#xf1b4;</string>
+    <string name="icon_dribble">&#xf17d;</string>
+
+    <string name="icon_send">&#xf1d8;</string>
+    <string name="icon_download">&#xf0ed;</string>
+    <string name="icon_save">&#xf019;</string>
+    <string name="icon_upload">&#xf0ee;</string>
+    <string name="icon_config">&#xf085;</string>
+    <string name="icon_creditcard">&#xf09d;</string>
+</resources>

@@ -41,7 +41,11 @@ public abstract class BaseActivity<P extends BasePresenter> extends AppCompatAct
 
         // Obtain the FirebaseAnalytics instance.
         mFirebaseAnalytics = FirebaseAnalytics.getInstance(this);
-
+        Bundle bundle = new Bundle();
+        bundle.putString(FirebaseAnalytics.Param.ITEM_ID, mFirebaseAnalytics.getFirebaseInstanceId());
+        bundle.putString(FirebaseAnalytics.Param.ITEM_NAME, "1231");
+        bundle.putString(FirebaseAnalytics.Param.CONTENT_TYPE, "image");
+        mFirebaseAnalytics.logEvent(FirebaseAnalytics.Event.SELECT_CONTENT, bundle);
         ButterKnife.bind(this);
 
         imageLoader = ImageLoader.getInstance();

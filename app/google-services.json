@@ -1,34 +1,42 @@
 {
   "project_info": {
-    "project_number": "658872923813",
-    "firebase_url": "https://nova-wallpaper.firebaseio.com",
-    "project_id": "nova-wallpaper",
-    "storage_bucket": "nova-wallpaper.appspot.com"
+    "project_number": "977149242450",
+    "firebase_url": "https://novawallpaper-cb80d.firebaseio.com",
+    "project_id": "novawallpaper-cb80d",
+    "storage_bucket": "novawallpaper-cb80d.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:658872923813:android:52d51afdc16927c744ff4c",
+        "mobilesdk_app_id": "1:977149242450:android:397b1292736c044c9f838b",
         "android_client_info": {
           "package_name": "com.xieaoze.novawallpaper"
         }
       },
       "oauth_client": [
         {
-          "client_id": "658872923813-675f4nho6ubrh5fdq3cvabdlka3blvgc.apps.googleusercontent.com",
+          "client_id": "977149242450-rjt1692rj03f2a87bab8cjh5p9kbo2b9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xieaoze.novawallpaper",
+            "certificate_hash": "bf8059aeb5995f8c321989c870c122f6ce9a1e18"
+          }
+        },
+        {
+          "client_id": "977149242450-58jtsp11ngelt5hrigct11othqtetp9c.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCwTrLS4JRj2a_DmwmIRvslRKeXFe5ak_Q"
+          "current_key": "AIzaSyB6Eb_cqvqFzCF_gtmzq91cAZoqDoiQ9Z8"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "658872923813-675f4nho6ubrh5fdq3cvabdlka3blvgc.apps.googleusercontent.com",
+              "client_id": "977149242450-58jtsp11ngelt5hrigct11othqtetp9c.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

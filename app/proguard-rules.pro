@@ -19,3 +19,5 @@
 # If you keep the line number information, uncomment this to
 # hide the original source file name.
 #-renamesourcefileattribute SourceFile
+#本项目
+-keep class com.xieaoze.novawallpaper.**{*;}
